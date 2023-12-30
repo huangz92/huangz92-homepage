@@ -1,6 +1,7 @@
 Huang Z. is a law student at National Taipei University.
 
 ## Club ##
+* Student Judge, NTPU Student Judiciary (2023-10 ~ )
 * Vice President, NTPU Liberal Society
 * (Co-)Vice Leader, Publications Section,  NTPU Law Students' Association
 
